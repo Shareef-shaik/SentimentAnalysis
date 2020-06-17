@@ -12,3 +12,4 @@ bs4==0.0.1
 lxml==3.4.2
 scikit-learn==0.23.1
 nltk==3.4.5
+nltk.download('punkt')
