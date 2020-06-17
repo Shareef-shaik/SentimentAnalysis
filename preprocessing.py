@@ -3,18 +3,13 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import nltk
+nltk.download('punkt')
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 nltk.download('stopwords')
 stop_words = set(stopwords.words('english'))
 stop_words.remove("not")
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.linear_model import LogisticRegression
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.svm import LinearSVC
-from sklearn.metrics import confusion_matrix,auc,roc_auc_score,f1_score
-from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split,RandomizedSearchCV
 from sklearn.feature_extraction.text import TfidfVectorizer
 #from scikitplot.metrics import plot_confusion_matrix
