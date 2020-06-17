@@ -17,7 +17,7 @@ from sklearn.metrics import confusion_matrix,auc,roc_auc_score,f1_score
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split,RandomizedSearchCV
 from sklearn.feature_extraction.text import TfidfVectorizer
-from scikitplot.metrics import plot_confusion_matrix
+#from scikitplot.metrics import plot_confusion_matrix
 
 from tqdm import tqdm
 import re
