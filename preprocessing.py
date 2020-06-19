@@ -1,7 +1,4 @@
 #import all necessary packages
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 import nltk
 nltk.download('punkt')
 from nltk.stem import PorterStemmer
@@ -10,16 +7,9 @@ from nltk.corpus import stopwords
 nltk.download('stopwords')
 stop_words = set(stopwords.words('english'))
 stop_words.remove("not")
-from sklearn.model_selection import train_test_split,RandomizedSearchCV
-from sklearn.feature_extraction.text import TfidfVectorizer
-#from scikitplot.metrics import plot_confusion_matrix
-
-from tqdm import tqdm
 import re
 from bs4 import BeautifulSoup
 
-import warnings
-warnings.simplefilter(action='ignore', category=FutureWarning)
 def text_Preprocessing(reviews):
     
     
