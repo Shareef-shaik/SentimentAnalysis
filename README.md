@@ -20,7 +20,7 @@ All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 ## To use
 
 * Download or clone the repository using $ git clone https://github.com/Shareef-shaik/SentimentDetector.git.
-* Install all the dependencies and run python app.py in prompt.
+* Install all the dependencies and run python app.py from terminal.
 * Open http://127.0.0.1:5000/ in the browser. Provide the text and click predict to see the outcome.
 
 ## Live API
