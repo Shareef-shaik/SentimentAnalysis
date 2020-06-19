@@ -25,9 +25,10 @@ All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 
 ## Live API
 I have deployed it on Heroku with the help of flask, In case if you are interested you can check here. 
-[Sentiment Detector](http://sentiiment.shareefshaik.me)
+[Sentiment Detector](http://sentiment.shareefshaik.me)
+i wrote a blog covering all the steps involved in completing this project, you can check out [here](https://medium.)  for more clear understanding.
 
 ## Application Looks
 
-![Screenshot](images/NewGIF.gif)
+![Screenshot](images/Application_gif.gif)
 
