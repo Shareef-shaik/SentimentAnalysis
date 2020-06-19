@@ -4,8 +4,7 @@ import pickle
 import preprocessing
 
 # load the model from disk
-filename = 'svc_model.pkl'
-clf = pickle.load(open(filename, 'rb'))
+clf = pickle.load(open(nb_clf.pkl, 'rb'))
 cv=pickle.load(open('tfidf_model.pkl','rb'))
 app = Flask(__name__)
 
