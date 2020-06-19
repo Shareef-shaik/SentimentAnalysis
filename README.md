@@ -24,11 +24,12 @@ All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 * Open http://127.0.0.1:5000/ in the browser. Provide the text and click predict to see the outcome.
 
 ## Live API
-I have deployed it on Heroku with the help of flask, In case if you are interested you can check here. 
+* I have deployed it on Heroku with the help of flask, In case if you are interested you can check here. 
 [Sentiment Detector](http://sentiment.shareefshaik.me)
-i wrote a blog covering all the steps involved in completing this project, you can check out [here](https://medium.)  for more clear understanding.
+* I wrote a blog covering all the steps involved in completing this project, you can check out [here](https://medium.)  for more clear understanding.
 
 ## Application Looks
+
 
 ![Screenshot](images/Application_gif.gif)
 
