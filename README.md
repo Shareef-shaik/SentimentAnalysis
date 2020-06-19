@@ -29,6 +29,5 @@ I have deployed it on Heroku with the help of flask, In case if you are interest
 
 ## Application Looks
 
-![Screenshot](images/Negative_input.PNG)
+![Screenshot](images/NewGIF.gif)
 
-![Screenshot](images/Negative.PNG)
