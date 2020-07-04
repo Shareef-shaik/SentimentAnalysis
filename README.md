@@ -2,7 +2,7 @@
 
 
 ## About
- This is a simple text classification, This model predicts the text as either Positive or Negative or Neutral.
+ This is a simple text classification, This model predicts the sentiment of the customer from the text to either Positive or Negative or Neutral.
  
 ## Data
  Dataset used for this is taken from kaggle. you can get it [here](https://www.kaggle.com/snap/amazon-fine-food-reviews).
