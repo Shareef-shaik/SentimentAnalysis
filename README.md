@@ -2,7 +2,7 @@
 
 
 ## About
- This is a simple text classification, This model predicts the sentiment of the customer from the text to either Positive or Negative or Neutral.
+ This is a text classification problem, This model predicts the sentiment of the customer from the text to either Positive or Negative or Neutral.
  
 ## Data
  Dataset used for this is taken from kaggle. you can get it [here](https://www.kaggle.com/snap/amazon-fine-food-reviews).
@@ -25,8 +25,8 @@ All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 
 ## Live API
 * I have deployed it on Heroku with the help of flask, In case if you are interested you can check here. 
-[Sentiment Detector](http://sentiment.shareefshaik.me)
-* I wrote a blog covering all the steps involved in completing this project, you can check out [here](https://medium.)  for more clear understanding.
+[Sentiment Analysis](http://sentiment.shareefshaik.me)
+* I wrote a blog covering all the steps involved in completing this project, you can check out [here](https://medium.com/towards-artificial-intelligence/sentiment-analysis-from-scratch-to-production-web-api-3382f19748e8) for more clear understanding.
 
 ## Application Looks
 
