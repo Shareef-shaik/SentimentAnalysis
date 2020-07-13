@@ -28,7 +28,7 @@ All dependencies can be installed using [pip](https://pip.pypa.io/en/stable/)
 [Sentiment Analysis](http://sentiment.shareefshaik.me)
 * I wrote a blog covering all the steps involved in completing this project, you can check out [here](https://medium.com/towards-artificial-intelligence/sentiment-analysis-from-scratch-to-production-web-api-3382f19748e8) for more clear understanding.
 
-## Application Looks
+## Application Demo
 
 
 ![Screenshot](images/Application_gif.gif)
